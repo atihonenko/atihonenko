@@ -8,7 +8,6 @@
 &nbsp;
 <p>I am a Software QA Engineer. Here I share web and mobile testing portfolio items developed through courses and personal projects.</p>
 
- <p>You are welcome to check out my <a href="https://drive.google.com/file/d/1kw0enMJqDhwa2HuBUHa05E2KkxsqJcpM/view?usp=drive_link">resume</a>.</p>
 
 <h2>Tools</h2>
 <p align="center">
