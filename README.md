@@ -12,7 +12,7 @@
 <h2>Tools</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
-  <img src="https://commons.wikimedia.org/wiki/File:YouTrack_Icon.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
+  <img src="https://toppng.com/uploads/preview/youtrack-logo-11609383842neeezdzrw6.png" title="YouTrack" alt="YouTrack" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/47823040?v=4" title="Qase" alt="Qase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Bash_Logo.svg" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://www.pikpng.com/pngl/b/431-4310313_the-bash-version-that-comes-with-mac-os.png" title="Bash" alt="Bash" width="50" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 </p>
